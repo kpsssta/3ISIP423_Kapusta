@@ -54,12 +54,12 @@ y = a·x³ + cos²(x³ - b)
 ---
 
 
-### Структура проекта
+## Структура проекта
 3ISIP423_Kapusta/
 │
 ├── 3ISIP423_Kapusta.sln # Файл решения
 │
-├── 3ISIP423_Kapusta/ # Проект
+├── 3ISIP423_Kapusta/ # Папка проекта
 │ ├── Images/ # Папка с изображениями формул
 │ │ ├── formula1.png
 │ │ ├── formula2.png
