@@ -1,0 +1,30 @@
+﻿<Window x:Class="_3ISIP423_Kapusta.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Практическая работа 4 Капуста" Height="500" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Closing="Window_Closing">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Панель навигации -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="#2196F3" HorizontalAlignment="Stretch">
+            <RadioButton Content="Страница 1" GroupName="nav" IsChecked="True" 
+                         Foreground="White" Margin="10,5" FontSize="14" 
+                         Checked="Page1_Checked"/>
+            <RadioButton Content="Страница 2" GroupName="nav" 
+                         Foreground="White" Margin="10,5" FontSize="14" 
+                         Checked="Page2_Checked"/>
+            <RadioButton Content="Страница 3" GroupName="nav" 
+                         Foreground="White" Margin="10,5" FontSize="14" 
+                         Checked="Page3_Checked"/>
+        </StackPanel>
+
+        <!-- Фрейм для отображения страниц -->
+        <Frame x:Name="MainFrame" Grid.Row="1" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>
