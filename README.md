@@ -20,7 +20,7 @@ w = |cos x - cos y|^(1+2sin²y) · (1 + z + z²/2 + z³/3 + z⁴/4)
 ---
 
 ### Страница 2: Кусочная функция с выбором f(x)
-
+![Формула 2](https://github.com/kpsssta/3ISIP423_Kapusta/blob/master/3ISIP423_Kapusta/Images/formula2.png?raw=true)
 
 **Математическая формула:**
     ⎧ (f(x) - y)³ + arctg(f(x)), x > y
@@ -30,7 +30,7 @@ d = ⎨ (y - f(x))³ + arctg(f(x)), y > x
 ---
 
 ### Страница 3: Параметрическая функция с табулированием
-
+![Формула 3](https://github.com/kpsssta/3ISIP423_Kapusta/blob/master/3ISIP423_Kapusta/Images/formula3.png?raw=true)
 
 **Математическая формула:**
 y = a·x³ + cos²(x³ - b)
@@ -53,7 +53,6 @@ y = a·x³ + cos²(x³ - b)
 ---
 
 
-## Структура проекта
 3ISIP423_Kapusta/
 │
 ├── 3ISIP423_Kapusta.sln # Файл решения
@@ -92,8 +91,6 @@ y = a·x³ + cos²(x³ - b)
 │ │
 │ ├── App.config # Конфигурация приложения
 │ └── README.md # Документация
-
-
 ### Компоненты страниц
 
 #### Страница 1 (Page1)
