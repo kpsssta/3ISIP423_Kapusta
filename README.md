@@ -53,45 +53,31 @@ y = a·x³ + cos²(x³ - b)
 ---
 
 ## Структура проекта
-3ISIP423_Kapusta/
-│
-├── 3ISIP423_Kapusta.sln # Файл решения
-│
-├── 3ISIP423_Kapusta/ # Папка проекта
-│ ├── Images/ # Папка с изображениями формул
-│ │ ├── formula1.png
-│ │ ├── formula2.png
-│ │ └── formula3.png
-│ │
-│ ├── Properties/ # Свойства проекта
-│ │ ├── AssemblyInfo.cs
-│ │ ├── Resources.resx
-│ │ └── Settings.settings
-│ │
-│ ├── Ссылки/ # Внешние библиотеки
-│ │ ├── System.Windows.Forms
-│ │ ├── System.Windows.Forms.DataVisualization
-│ │ ├── System.Drawing
-│ │ └── OxyPlot.WPF
-│ │
-│ ├── App.xaml # Конфигурация приложения
-│ ├── App.xaml.cs
-│ │
-│ ├── MainWindow.xaml # Главное окно с навигацией
-│ ├── MainWindow.xaml.cs
-│ │
-│ ├── Page1.xaml # Страница 1
-│ ├── Page1.xaml.cs
-│ │
-│ ├── Page2.xaml # Страница 2
-│ ├── Page2.xaml.cs
-│ │
-│ ├── Page3.xaml # Страница 3
-│ ├── Page3.xaml.cs
-│ │
-│ ├── App.config # Конфигурация приложения
-│ └── README.md # Документация
 
+```text
+3ISIP423_Kapusta/
+├── 3ISIP423_Kapusta.sln
+│
+├── 3ISIP423_Kapusta/
+│   ├── Images/
+│   │   ├── formula1.png
+│   │   ├── formula2.png
+│   │   └── formula3.png
+│   ├── Properties/
+│   ├── Ссылки/
+│   ├── App.xaml
+│   ├── App.xaml.cs
+│   ├── MainWindow.xaml
+│   ├── MainWindow.xaml.cs
+│   ├── Page1.xaml
+│   ├── Page1.xaml.cs
+│   ├── Page2.xaml
+│   ├── Page2.xaml.cs
+│   ├── Page3.xaml
+│   ├── Page3.xaml.cs
+│   ├── App.config
+│   └── README.md
+```
 ### Компоненты страниц
 
 #### Страница 1 (Page1)
