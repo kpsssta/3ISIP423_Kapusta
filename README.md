@@ -11,8 +11,7 @@
  Вариант задания №4
 
 ### Страница 1: Степенно-тригонометрическая функция
-![Формула 1](Images/formula1.png)
-
+![Формула 1](https://github.com/kpsssta/3ISIP423_Kapusta/blob/main/3ISIP423_Kapusta/Images/formula1.png?raw=true)
 
 **Математическая формула:**
 w = |cos x - cos y|^(1+2sin²y) · (1 + z + z²/2 + z³/3 + z⁴/4)
