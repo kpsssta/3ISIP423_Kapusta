@@ -23,6 +23,7 @@
 
 **11,99 + 5,77 = 17,76**  
 **17,76 - 11,22 = 6,54** 
+
 ![Данные](https://github.com/kpsssta/3ISIP423_Kapusta/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD.jpg)
 
 ### 2. Документируем код
