@@ -30,7 +30,9 @@
 
 ### Скриншот выполнения тестов
 
+![Скрин](https://github.com/kpsssta/3ISIP423_Kapusta/blob/pr6/test1.jpg)
 
+![Скрин](https://github.com/kpsssta/3ISIP423_Kapusta/blob/pr6/alltest.jpg)
 
 ## Использованные методы Assert
 
