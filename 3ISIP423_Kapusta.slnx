@@ -2,5 +2,6 @@
   <Folder Name="/Элементы решения/">
     <File Path="README.md" />
   </Folder>
-  <Project Path="3ISIP423_Kapusta/3ISIP423_Kapusta.csproj" />
+  <Project Path="3ISIP423_Kapusta/3ISIP423_Kapusta.csproj" Id="886edb5d-6121-4b0b-ac09-968e90155b6c" />
+  <Project Path="UnitTestProject/UnitTestProject.csproj" Id="d455dcf9-e6e3-46a0-a5e1-01a78e584da0" />
 </Solution>
