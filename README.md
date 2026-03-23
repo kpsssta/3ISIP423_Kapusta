@@ -15,11 +15,11 @@
 
 
 ### Страница 1 
-
+![Страница 1](https://github.com/kpsssta/3ISIP423_Kapusta/blob/pr6/page1.jpg)
 ### Страница 2 
-
+![Страница 2](https://github.com/kpsssta/3ISIP423_Kapusta/blob/pr6/page2.jpg)
 ### Страница 3 
-
+![Страница 3](https://github.com/kpsssta/3ISIP423_Kapusta/blob/pr6/page3.jpg)
 
 ## Результаты автоматизированного тестирования
 
